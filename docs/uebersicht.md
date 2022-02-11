@@ -2,6 +2,9 @@
 
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
+!!! info
+Testinfobox
+
 ## 1. Upload
 
 [Wie lade ich meine Excel-Tabelle in MultiRoute Tour! hoch?](https://youtu.be/MH_X33FIeZ4)
