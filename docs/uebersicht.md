@@ -5,6 +5,23 @@ Sehen Sie sich unsere kurzen Videos zur Einführung an.
 !!! info
   Testinfobox
 
+!!! type "optional explicit title within double quotes"
+    Any number of other indented markdown elements.
+
+    This is the second paragraph.
+
+!!! note
+    You should note that the title will be automatically capitalized.
+    
+!!! danger "Don't try this at home"
+    ...
+
+!!! important ""
+    This is an admonition box without a title.
+    
+!!! danger highlight blink "Don't try this at home"
+    ...
+
 ## 1. Upload
 
 [Wie lade ich meine Excel-Tabelle in MultiRoute Tour! hoch?](https://youtu.be/MH_X33FIeZ4)
