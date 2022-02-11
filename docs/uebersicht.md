@@ -22,6 +22,18 @@ Sehen Sie sich unsere kurzen Videos zur Einführung an.
 !!! danger highlight blink "Don't try this at home"
     ...
 
+Optionen: 
+
+- attention
+- caution
+- danger
+- error
+- hint
+- important
+- note
+- tip
+- warning
+
 ## 1. Upload
 
 [Wie lade ich meine Excel-Tabelle in MultiRoute Tour! hoch?](https://youtu.be/MH_X33FIeZ4)
