@@ -3,7 +3,7 @@
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
 !!! info
-Testinfobox
+  Testinfobox
 
 ## 1. Upload
 
