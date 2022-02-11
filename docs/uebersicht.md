@@ -2,25 +2,7 @@
 
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
-!!! info
-    Testinfobox
-
-!!! type "optional explicit title within double quotes"
-    Any number of other indented markdown elements.
-
-    This is the second paragraph.
-
-!!! note
-    You should note that the title will be automatically capitalized.
-    
-!!! danger "Don't try this at home"
-    ...
-
-!!! important ""
-    This is an admonition box without a title.
-    
-!!! danger highlight blink "Don't try this at home"
-    ...
+## Admonitions 
 
 Optionen: 
 
@@ -33,6 +15,35 @@ Optionen:
 - note
 - tip
 - warning
+
+!!! attention "Don't try this at home"
+	Test
+
+!!! caution "Don't try this at home"
+	Test
+
+!!! danger
+	Test
+
+!!! error
+	Test
+
+!!! hint "Good to know"
+	Test
+
+!!! important
+	Test
+
+!!! note
+	Test
+
+!!! tip
+	Test
+
+!!! warning
+	Test
+
+   
 
 ## 1. Upload
 
