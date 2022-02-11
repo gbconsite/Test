@@ -3,7 +3,7 @@
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
 !!! info
-  Testinfobox
+    Testinfobox
 
 !!! type "optional explicit title within double quotes"
     Any number of other indented markdown elements.
