@@ -6,7 +6,7 @@ Test
 
 :smile: wie in github
 
-This :fontawesome-regular-folder-open: is :fontawesome-solid-calculator: an :fontawesome-solid-road: icon :fontawesome-regular-house: test :fontawesome-solid-print:.
+This :fontawesome-regular-folder-open: is :fontawesome-solid-calculator: an :fontawesome-solid-road: icon :fontawesome-solid-house: test :fontawesome-solid-print:.
 
 Icons unter https://github.com/gbconsite/Test/tree/main/docs/theme_override_home/.icons/fontawesome regular oder solid
 
