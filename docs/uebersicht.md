@@ -4,6 +4,8 @@ Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
 Test 
 
+This :fontawesome-regular-polygon:
+
 :smile: wie in github
 
 This :fontawesome-regular-folder-open: is :fontawesome-solid-calculator: an :fontawesome-solid-road: icon :fontawesome-solid-house: test :fontawesome-solid-print:.
