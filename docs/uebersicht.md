@@ -2,7 +2,9 @@
 
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
-Test 
+Test :custom-polygon: this icon.
+
+![](assets/icons/polygon.svg)
 
 This :fontawesome-regular-polygon:
 
