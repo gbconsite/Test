@@ -2,9 +2,16 @@
 
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
+Test again <svg height="1em" width="1em" src="assets/icons/polygon.svg"></svg> Test
+
+Test again <img height="16px" src="assets/icons/polygon.svg"></img> Test again
+
 Test :custom-polygon: this icon.
 
 ![](assets/icons/polygon.svg)
+
+
+:green_circle:{color:blue}
 
 This :fontawesome-regular-polygon:
 
