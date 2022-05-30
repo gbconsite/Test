@@ -11,7 +11,7 @@ Test :custom-polygon: this icon.
 ![](assets/icons/polygon.svg)
 
 
-:green_circle:{color:blue}
+:green_circle:{style="color:blue"}
 
 This :fontawesome-regular-polygon:
 
