@@ -2,6 +2,12 @@
 
 Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
+[Subscribe to our newsletter](#){ .md-button }
+
+[Subscribe to our newsletter](#){ .md-button .md-button--primary }
+
+[Send :fontawesome-solid-paper-plane:](#){ .md-button }
+
 :material-arrow-down:{style="color:blue"}
 
 
@@ -39,6 +45,8 @@ Optionen:
 - note
 - tip
 - warning
+
+
 
 !!! attention "Don't try this at home"
 	Test
