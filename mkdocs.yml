@@ -95,7 +95,16 @@ markdown_extensions:
       options:
         custom_icons:
           - theme_override_home/.icons
-
+          
+plugins:
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+  - search:
+      lang: de
 #extra:
 #  alternate:
 #    - name: Deutsch
