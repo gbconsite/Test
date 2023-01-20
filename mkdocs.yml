@@ -59,6 +59,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - content.action.edit
+    - content.code.copy
     
   font:
     text: Roboto
