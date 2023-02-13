@@ -1,2 +1,2 @@
 # Grundlagen 
-Das sind die Grudlagen zur Nutzung der Software.
+Das sind die Grundlagen zur Nutzung der Software.
