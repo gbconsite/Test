@@ -5,6 +5,7 @@ nav:
     - Handbuch:
       - Übersicht: uebersicht.md
       - Einführung: einfuehrung.md
+      - Grundlagen: grundlagen.md
       - 1. Upload: upload.md
       - 2. Planung: planung.md
       - 3. Flotten: flotten.md
