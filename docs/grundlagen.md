@@ -10,3 +10,6 @@ Herzstück des Tools bildet die Einzzugsgebietsanalyse: Sie können entweder ein
 # Aufbau
 Auf dem Bildschirm sehen Sie folgendes:
 
+# Übersicht
+Die Software gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber auch für eine komplette Neuplanung und Erweiterung eines Filialnetzes. Konkret erhält man pro Adresse die Erfolgsfaktoren eines Standortes und Informationen wie die Zielgruppe un der Wettbewerb sich jeweils räumlich verteilen.
+
