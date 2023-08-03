@@ -84,7 +84,6 @@ repo_name: gbconsite/Test
 edit_uri: ./edit/main/docs
 
 markdown_extensions:
-  - lightgallery
   - attr_list
   - md_in_html # enable lazy loading images via ![!](assets/Auftragsinfos.jpg){ loading=lazy }
   - admonition
@@ -111,6 +110,7 @@ plugins:
           remove_comments: true
   - search:
       lang: de
+  - glightbox
   - blog
 #extra:
 #  alternate:
