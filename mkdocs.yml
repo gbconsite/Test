@@ -111,6 +111,7 @@ plugins:
           remove_comments: true
   - search:
       lang: de
+  - blog
 #extra:
 #  alternate:
 #    - name: Deutsch
