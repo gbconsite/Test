@@ -19,6 +19,8 @@ nav:
       - Getränkelieferungen: getraenkelieferung.md
       - Lieferkisten: lieferkiste.md
       - Gebäudereinigung: gebaeudereinigung.md
+    - Blog:
+      - blog/index.md
     - API:
       - MRT! API: api-intro.md
       - Einführung: ablauf.md
